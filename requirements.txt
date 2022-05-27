@@ -94,7 +94,6 @@ python-bcb==0.1.7
 python-dateutil==2.8.2
 pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
-pywin32==223
 pywinpty==2.0.5
 pyzmq==23.0.0
 qtconsole==5.3.0
