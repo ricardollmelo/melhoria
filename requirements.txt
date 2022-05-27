@@ -127,4 +127,3 @@ websocket-client==1.3.2
 widgetsnbextension==3.6.0
 wrapt==1.14.1
 zipp==3.8.0
-© 2022 GitHub, Inc.
